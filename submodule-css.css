@@ -1,5 +1,6 @@
     .submodule {
-    color: blue;
-    background-color: yellow;
-    border: 1px solid black;
+    color: red;
+    background-color: green;
+    border: 2px solid black;
+    font-size: large;
 }
